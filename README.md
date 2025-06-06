@@ -40,7 +40,7 @@ I enjoy building smart systems, analyzing data, and crafting full-stack applicat
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](www.linkedin.com/in/rubeshkk)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&labelColor=000)](https://portfolio-chi-gilt-thadlzzmsb.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&labelColor=000)](https://portfolio-plum-mu-g6e723g26u.vercel.app/)
 
 ---
 
