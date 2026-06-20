@@ -52,8 +52,8 @@ I am an **Artificial Intelligence & Data Science** graduate passionate about bui
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visual_studio_dark" alt="Rubesh's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rubesh-28&show_icons=true&theme=visual_studio_dark" alt="Rubesh's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubesh-28&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="48%"/>
 </p>
 
 ---
